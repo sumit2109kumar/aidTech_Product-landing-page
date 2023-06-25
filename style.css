@@ -1,0 +1,28 @@
+body{
+    background: #EBEBEB;
+}
+.landing-page{
+    background: linear-gradient(#00000034,rgb(0, 0, 0)), url(special.jpg);
+	background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+li{
+    font-size: 20px;
+}
+.main-section-text{
+    padding-top: 200px;
+}
+.s-size{
+    letter-spacing: 6px;
+}
+hr{
+    width: 50%;
+}
+.b-left{
+    border-left: 1px solid black;
+}
+.footer-second {
+    justify-content: space-around;
+    margin: 0 407px;
+  }
